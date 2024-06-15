@@ -229,7 +229,6 @@
 "title_color": "#FFFFFF",
 "t
 
-ChatGPT4 | Midjourney, [14/06/2024 03:22]
 ypography_typography": "custom",
 "typography_font_family": "Open Sans",
 "typography_font_size": {
@@ -313,11 +312,6 @@ ypography_typography": "custom",
 "elType": "row"
 }
 
-I've broken the code into lines for readability and added proper indentation.  This code appears to be JSON data representing the settings for a website footer.  
-
-Let me know if you have any other code you'd like me to break down!
-
-ChatGPT4 | Midjourney, [14/06/2024 03:22]
 {
 "content": [
 {
@@ -657,7 +651,6 @@ Linked": true
 ]
 }
 
-ChatGPT4 | Midjourney, [14/06/2024 03:22]
 {
   "id": "76089c51",
   "settings": {
@@ -814,7 +807,6 @@ ChatGPT4 | Midjourney, [14/06/2024 03:22]
             },
             "typography_font_weight": "
 
-ChatGPT4 | Midjourney, [14/06/2024 03:22]
 400"
           },
           "elements": [],
@@ -956,7 +948,6 @@ ChatGPT4 | Midjourney, [14/06/2024 03:22]
                   "value": "fas fa-phone-alt",
                   "library": "fa-solid"
 
-ChatGPT4 | Midjourney, [14/06/2024 03:22]
 },
                 "_id": "d461202"
               },
